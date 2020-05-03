@@ -1,0 +1,17 @@
+C:\Users\shaoxuejiao\Desktop\Taxi\Texi\Texi\obj\Debug\Texi.csprojAssemblyReference.cache
+C:\Users\shaoxuejiao\Desktop\Taxi\Texi\Texi\obj\Debug\Texi.csproj.CoreCompileInputs.cache
+C:\Users\shaoxuejiao\Desktop\Taxi\Texi\Texi\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\shaoxuejiao\Desktop\Taxi\Texi\Texi\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\shaoxuejiao\Desktop\Taxi\Texi\Texi\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\shaoxuejiao\Desktop\Taxi\Texi\Texi\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\shaoxuejiao\Desktop\Taxi\Texi\Texi\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\shaoxuejiao\Desktop\Taxi\Texi\Texi\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\shaoxuejiao\Desktop\Taxi\Texi\Texi\bin\Debug\Texi.dll
+C:\Users\shaoxuejiao\Desktop\Taxi\Texi\Texi\bin\Debug\Texi.pdb
+C:\Users\shaoxuejiao\Desktop\Taxi\Texi\Texi\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\shaoxuejiao\Desktop\Taxi\Texi\Texi\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\shaoxuejiao\Desktop\Taxi\Texi\Texi\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\shaoxuejiao\Desktop\Taxi\Texi\Texi\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\shaoxuejiao\Desktop\Taxi\Texi\Texi\obj\Debug\Texi.csproj.CopyComplete
+C:\Users\shaoxuejiao\Desktop\Taxi\Texi\Texi\obj\Debug\Texi.dll
+C:\Users\shaoxuejiao\Desktop\Taxi\Texi\Texi\obj\Debug\Texi.pdb
